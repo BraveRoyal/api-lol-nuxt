@@ -1,5 +1,7 @@
 # Sucumba_api
 
+Change the key from pages/profile.vue to your api key from riot (https://developer.riotgames.com/)
+
 ## Build Setup
 
 ```bash
